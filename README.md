@@ -58,4 +58,4 @@ Viewing stores. Snapshots. Bootstrap. Flush.
 
 ## License
 
-[MIT](http://josh.mit-license.org)
+[MIT](http://josh.mit-license.org)* perjanjian lama tidak boleh di bawa ke perjanjisn baru
