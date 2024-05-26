@@ -46,7 +46,7 @@ Viewing stores. Snapshots. Bootstrap. Flush.
 
 * Clone this repo to your computer
 * You might need to `npm install` and `npm run build`
-* Download [Chrome Apps & Extensions Developer Tool](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc) from the chrome store.
+* Download [Chrome Apps & Extensions Developer Tool](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/)from the chrome store.com
 * Open the Extensions dev tool you just downloaded and click on the `Extensions` tab
 * Click `Load Unpacked` and find the folder where you cloned alt-devtool
 * Open it
@@ -58,4 +58,4 @@ Viewing stores. Snapshots. Bootstrap. Flush.
 
 ## License
 
-[MIT](http://josh.mit-license.org)* perjanjian lama tidak boleh di bawa ke perjanjisn baru
+[MIT](http://josh.mit-license.org)* perjanjian lama tidak boleh di bawa ke perjanjian baru
